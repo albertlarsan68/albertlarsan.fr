@@ -1,0 +1,14 @@
+html {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  max-width: 80em;
+  font-family: monospace, ui-monospace;
+}
+
+a {
+  display: block;
+}

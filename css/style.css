@@ -9,6 +9,6 @@ body {
   font-family: monospace, ui-monospace;
 }
 
-a {
+body>a {
   display: block;
 }

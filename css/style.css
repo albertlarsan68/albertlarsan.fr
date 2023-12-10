@@ -5,11 +5,17 @@ html {
 }
 
 body {
-  max-width: 80em;
   font-family: monospace, ui-monospace;
+  max-width: 150ch;
+}
+
+h1 {
+  margin: 0;
 }
 
 p {
   margin: 0;
   padding: 0;
+  line-height: 1.5;
+  min-height: 1.5em;
 }

@@ -9,6 +9,7 @@ body {
   font-family: monospace, ui-monospace;
 }
 
-body>a {
-  display: block;
+p {
+  margin: 0;
+  padding: 0;
 }

@@ -17,5 +17,5 @@ p {
   margin: 0;
   padding: 0;
   line-height: 1.5;
-  min-height: 1.5em;
+  min-height: min(1.5em, 48px);
 }
